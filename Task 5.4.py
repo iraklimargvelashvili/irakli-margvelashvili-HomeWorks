@@ -14,9 +14,9 @@ else:
         empty_space = ""
         floor = ""
         sticks = "|"
-        for _ in range(grow):
+        for _ in range(grow - 1):
             sticks += '||'
-        for _ in range(hight+1 - grow):
+        for _ in range(hight+1 - (grow - 1)):
             empty_space += ' '
         floor = f"{empty_space}/{sticks}\\{empty_space}\n"
         tree += floor
