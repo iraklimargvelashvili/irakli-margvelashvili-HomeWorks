@@ -5,7 +5,7 @@ def friends_fairing() :
     friends_names = input("Write who is who's firnd or FINISH: ")
 
     if friends_names == 'FINISH' :
-        print(friendship_dict)
+        #print(friendship_dict)
         return friendship_dict
     
     new_friends_list = friends_names.split('-')
@@ -21,10 +21,13 @@ def friends_fairing() :
         friendship_dict[new_friends_list[1]] = new_friends_list[0]
     
     friends_fairing()
+    return friendship_dict
 
 def main():
-    print(friends_fairing())
-
+    key_value = friends_fairing()
+    for key, value in key_value.items():
+        print(key,"-",value)    
+    
 if __name__ == "__main__" :
     main()
  
