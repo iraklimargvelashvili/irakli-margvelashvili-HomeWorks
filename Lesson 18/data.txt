@@ -1,0 +1,7 @@
+Gocha,apple,30,5
+Gvanca,onion,1,15
+Ilo,cucumber,8,8
+Lia,tomato,7,10
+Noe,carrot,15,12
+Ani,plump,2,20
+Nini,grape,30,6
