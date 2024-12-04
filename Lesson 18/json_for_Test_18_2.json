@@ -1,0 +1,16 @@
+{
+    "max_amount_user": [
+        "Gocha",
+        "Nini"
+    ],
+    "max_total_purchase": [
+        "Noe",
+        "Nini"
+    ],
+    "price_everage": 10.86,
+    "amount_everage": 13.29,
+    "max_amount_prodact": [
+        "apple",
+        "grape"
+    ]
+}

@@ -1,0 +1,5 @@
+Gocha,apple,30,5
+
+Ilo,cucumber,8,8
+
+Nini,grape,30,6
