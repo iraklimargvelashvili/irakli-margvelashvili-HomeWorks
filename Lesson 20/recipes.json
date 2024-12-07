@@ -1,0 +1,86 @@
+{
+    "Classic Margherita Pizza": [
+        "flour",
+        "tomato",
+        "mozzarella",
+        "basil",
+        "oil",
+        "salt",
+        "pepper"
+    ],
+    "Vegetarian Stir-Fry": [
+        "tofu",
+        "broccoli",
+        "carrots",
+        "pepper",
+        "soy",
+        "ginger",
+        "garlic",
+        "oil",
+        "rice"
+    ],
+    "Chocolate Chip Cookies": [
+        "flour",
+        "butter",
+        "sugar",
+        "eggs",
+        "vanilla",
+        "soda",
+        "salt",
+        "chocolate"
+    ],
+    "Chicken Alfredo Pasta": [
+        "pasta",
+        "chicken",
+        "cream",
+        "parmesan",
+        "garlic",
+        "butter",
+        "salt",
+        "pepper",
+        "parsley"
+    ],
+    "Mango Salsa Chicken": [
+        "chicken",
+        "mango",
+        "onion",
+        "cilantro",
+        "lime",
+        "jalape\u00f1o",
+        "salt",
+        "pepper",
+        "rice"
+    ],
+    "Quinoa Salad with Avocado": [
+        "quinoa",
+        "avocado",
+        "tomato",
+        "cucumber",
+        "pepper",
+        "cheese",
+        "lemon",
+        "salt",
+        "pepper"
+    ],
+    "Tomato Basil Bruschetta": [
+        "baguette",
+        "tomato",
+        "basil",
+        "garlic",
+        "glaze",
+        "oil",
+        "salt",
+        "pepper"
+    ],
+    "Beef and Broccoli Stir-Fry": [
+        "beef",
+        "broccoli",
+        "soy",
+        "oyster",
+        "oil",
+        "garlic",
+        "ginger",
+        "cornstarch",
+        "rice"
+    ]
+}
